@@ -20,7 +20,7 @@ const Hero = () => {
         <h1 className='font-bold text-6xl whitespace-nowrap drop-shadow-2xl text-cyan-950'>School College Projects</h1>
       </div>  
       <div className='p-2 flex items-center justify-center'>
-        <p className='drop-shadow-2xl text-amber-700 ml-10'>`Empowering tomorrow's leaders, one project at a time.`</p>        
+        `<p className='drop-shadow-2xl text-amber-700 ml-10'>Empowering tomorrow's leaders, one project at a time.</p>`
       </div> 
         <div className='mx-96 px-10 pt-2 '>
          <div className=' bg-cyan-950/50 ml-10 m-4 p-2 flex items-center rounded-xl w-auto'>
